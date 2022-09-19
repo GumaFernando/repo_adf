@@ -12,6 +12,11 @@
 				}
 			}
 		],
+		"variables": {
+			"var1": {
+				"type": "String"
+			}
+		},
 		"annotations": []
 	}
 }
