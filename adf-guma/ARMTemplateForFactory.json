@@ -32,6 +32,11 @@
 					"elapsedTimeMetric": {},
 					"cancelAfter": {}
 				},
+				"variables": {
+					"var1": {
+						"type": "String"
+					}
+				},
 				"annotations": []
 			},
 			"dependsOn": []
