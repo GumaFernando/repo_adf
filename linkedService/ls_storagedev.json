@@ -1,0 +1,19 @@
+{
+	"name": "ls_storagedev",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://storagedevguma.dfs.core.windows.net",
+			"accountKey": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "AzureKeyVault",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "storagedevstring",
+				"secretVersion": "4d9b9f4ea5a346358f85a885ae0e1d91"
+			}
+		}
+	}
+}
