@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf-guma"
+		},
+		"AzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://akv-guma.vault.azure.net/"
+		},
+		"ls_storagedev_properties_typeProperties_url": {
+			"value": "https://storagedevguma.dfs.core.windows.net"
 		}
 	}
 }
