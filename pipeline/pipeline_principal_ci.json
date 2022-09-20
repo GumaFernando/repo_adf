@@ -1,5 +1,5 @@
 {
-	"name": "pipeline_principal",
+	"name": "pipeline_principal_ci",
 	"properties": {
 		"activities": [
 			{
