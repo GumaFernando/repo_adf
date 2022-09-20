@@ -77,6 +77,11 @@
 				]
 			}
 		],
+		"parameters": {
+			"secret_storage": {
+				"type": "string"
+			}
+		},
 		"variables": {
 			"var1": {
 				"type": "String"
